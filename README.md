@@ -106,10 +106,18 @@
 
 </div>
 
- 
-## GitHub Stats
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniRanaDS27&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RoshniRanaDS27&theme=radical&_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoshniRanaDS27&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RoshniRanaDS27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoshniRanaDS27&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshniRanaDS27&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshniRanaDS27&" alt="Streak Stats" width="400" />
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
