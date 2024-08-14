@@ -25,7 +25,7 @@
 <td width="50%" align="center">
 
 
-  <img align="center" alt="Coding" width="450" src="/images/ach3.gif">
+  <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a">
 </p>
 
 
