@@ -79,11 +79,6 @@
 |----------|----------|----------|-----|-----|-----|----------|-----|-----|-----|-----|-----|
 |  <img src="https://pnghq.com/wp-content/uploads/power-bi-logo-and-sign-png-high-resolution.png" title="Powerbi"  alt="Powerbi" width="55" height="55"/> |  <img src="https://i.pinimg.com/736x/86/35/88/863588a71e465cc3aa5d822c0feafea9.jpg"  alt="Tableau" width="55" height="55"/> |  <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="flask" alt="flask" width="55" height="55"/> |  <img src="http://help.plot.ly/images/dash.png" title="dash" alt="dash" width="55" height="55"/>|  <img src="https://res.cloudinary.com/apideck/image/upload/v1569191250/catalog/keras-io/icon128x128.jpg" title="kera" alt="kera" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="sea" alt="sea" width="55" height="55"/>|<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" title="PL" alt="PL" width="55" height="55"/>|<img src="https://hadrienj.github.io/assets/images/icons/matplotlib.png" title="mat"  alt="mat" width="55" height="55"/> |<img src="https://vectorified.com/images/excel-document-icon-29.png" title="excel"  alt="excel" width="55" height="55"/> |<img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" title="geo"  alt="geo" width="55" height="55"/> |<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="lit"  alt="lit" width="55" height="55"/> |<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="look"  alt="look" width="55" height="55"/> |
 
-
-
-
-
-
 </div>
 
 ---
@@ -92,7 +87,7 @@
   
 ### My tools for Data Manipulation & Transformation
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Visual Studio | Excel | Colab 
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Visual Studio | JIRA | Colab |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
 
