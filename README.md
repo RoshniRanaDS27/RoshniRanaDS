@@ -36,13 +36,13 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/achraf-zarouki" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/zaroukiachraf" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.zarouki-achraf.me/" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
 </p>
