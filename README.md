@@ -91,48 +91,49 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://pluspng.com/img-png/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" title="VS" alt="VS" width="65" height="55"/> | <img src="https://clipground.com/images/jira-logo-clipart-2.png" title="JIRA" alt="JIRA" width="55" height="55"/> | <img src="https://cdn.dribbble.com/users/1889103/screenshots/7105914/colab_dribble_logo_v1_4x.png" title="COLAB" alt="COLAB" width="55" height="55"/> | <img src="https://tse1.mm.bing.net/th?id=OIP.24zfU8JB1QEJStJcqRhR2wAAAA&pid=Api&P=0&h=180" title="mongo" alt="mongo" width="55" height="55"/> | <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail.png" title="mongo" alt="mongo" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
 
-
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
-
-### Methodologies:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
-
-### Data Engineering and ERD/Wire Frame design:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
-
-</div>
-
----
-<div align="left">
-  
-### Areas of Expertise
- 
-| Data Analysis | Data Modeling | Data Engineering | Advanced Analysis | Data Visualization | ML Modeling | Deep Learning |
-|----------|----------|----------|----------|----------|----------|----------|
-|<img src="assets/meta.png" alt="msf" width="55" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
-
-
-### Machine Learning and Data Mining:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | VGG 16 |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
-
 ### Cloud Plateforms:
 
 | Amazon Web Services | Google Cloud Platform | Oracle | Azure | 
 |----------|----------|----------|----------|
 |<img src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws" alt="aws" width="95" height="55"/>|<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" title="Gc" alt="Gc" width="100" height="65"/>|<img src="https://tse3.mm.bing.net/th?id=OIP.oh2doaVuGxtNElqLduWoeQHaCt&pid=Api&P=0&h=180" title="OC" alt="OC" width="95" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" title="pytest" alt="pytest" width="85" height="55"/>| 
+
+
+### **Methodologies:**
+
+| Waterfall        | Agile           | CRISP-DM        | KDP           | Supervised Learning | Unsupervised Learning | Reinforcement Learning | EDA  | Statistical Analysis | Hypothesis Testing |
+|------------------|------------------|------------------|----------------|---------------------|-----------------------|------------------------|------|---------------------|---------------------|
+| Linear approach  | Iterative approach| Data mining process| Knowledge Discovery Process| Labeled data training | Hidden patterns discovery | Decision making with rewards | Data exploration | Statistical methods  | Testing hypotheses   |
+
+### **Data Analysis Flow:**
+
+| Data Collection      | Data Quality Assurance | Data Validation | Data Cleansing | Data Verification | Data Modeling | Data Engineering | Exploratory Data Analysis | Visualization | Advanced Analytics | Statistical Analysis | Trend Monitoring | Geographic Trend Tracking | Data Science Research Methods | Search Engine Optimization (SEO) | ERD | ML Model Dashboard |
+|----------------------|-------------------------|-----------------|----------------|-------------------|---------------|------------------|---------------------------|---------------|-------------------|---------------------|------------------|----------------------------|-------------------------------|---------------------------------|-----|---------------------|
+| Gathering data       | Ensuring data integrity | Checking data accuracy | Cleaning data | Confirming data accuracy | Designing data structures | Developing data systems | Analyzing data patterns | Creating charts and graphs | Complex data analysis | Statistical techniques | Monitoring trends over time | Tracking geographic trends | Research methods in data science | Optimizing search engine performance | Entity-Relationship Diagrams | Dashboards for ML model performance |
+
+
+### **Data Modeling:**
+
+| ER Diagrams | Normalization | Schema Design | Data Mapping | Mapping Tools | Data Structures |
+|-------------|---------------|---------------|--------------|---------------|-----------------|
+| Creating diagrams to represent data relationships | Organizing data to reduce redundancy | Designing the structure of a database | Linking data elements | Tools for mapping data | Defining data organization |
+
+### **Advanced Analytics:**
+
+| Statistical Analysis | Trend Analysis | Data Mining | Regression Analysis | Hypothesis Testing | Predictive Analytics |
+|----------------------|-----------------|-------------|---------------------|--------------------|----------------------|
+| Analyzing data using statistical methods | Analyzing data trends over time | Discovering patterns in data | Assessing relationships between variables | Testing hypotheses with statistical methods | Making predictions based on data |
+
+</div>
+
+---
+<div align="left">
+
+### Machine Learning and Data Mining:
+
+| Predictive Modeling | Clustering | Classification | Data Mining Techniques | Algorithm Development | Deep Learning | Neural Networks | Model Testing: Regression | Web Development Dashboard |
+|---------------------|------------|----------------|-----------------------|----------------------|---------------|-----------------|---------------------------|---------------------------|
+| Creating models to predict outcomes | Grouping data | Categorizing data | Techniques for data extraction | Developing algorithms | Advanced ML techniques | Building and training neural networks | Evaluating models with Regression | Building and integrating dashboards for web applications |
+
 
 </div>
 
