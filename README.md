@@ -116,4 +116,11 @@
  <img width="1000" src="https://github.com/user-attachments/assets/bd6103c2-0d3c-4ae0-ba4b-279ec9d529d7" alt="snake"/>
 </p>
 
+<p align="center">
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
+
 
