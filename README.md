@@ -18,7 +18,7 @@
 - 👩‍💻 Fueled by coding and machine learning.
 - 🌱 Enhancing skills in NLP and Deep Learning.
 - 👯 Eager to collaborate on impactful data science projects.
-- 💬 Curious about DA, .Py, ML algorithms and models.
+- 💬 Curious about DA, .Py, ML algorithms and AI models.
 - 📝 Explore my [Website](#) to see my latest work and insights.
 - 📫 You can reach me: **roshni.rana27.py@gmail.com**
 
