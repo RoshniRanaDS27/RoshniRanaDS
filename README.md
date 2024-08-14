@@ -62,9 +62,9 @@
 <div align="center">
   
 ### Languages:
-| Python3 | SQL | HTML | CSS | JAVA | R |
-|----------|----------|----------|-----|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://logodix.com/logo/1327215.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" title="R" alt="R" width="55" height="55"/>|
+| Python3 | SQL | HTML | CSS | JAVA |  R  | PL/SQL |
+|----------|----------|----------|-----|-----|-----|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://logodix.com/logo/1327215.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" title="R" alt="R" width="55" height="55"/>|<img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" title="PL" alt="PL" width="55" height="55"/>|
 
 
 ### Best frameworks and main libraries for Python3:
