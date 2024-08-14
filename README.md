@@ -34,6 +34,12 @@
 </tr>
 </table>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshniRanaDS27&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+
 ## Connect with Me
 <p align="center">
   <a href=" " target="_blank">
@@ -104,11 +110,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniRanaDS27&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoshniRanaDS27&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 <!--START_SECTION:waka-->
 
