@@ -14,10 +14,14 @@
 <tr>
 <td width="50%" align="left">
 
-- 🔭 Currently working on my git hub read me
-- 🌱 Passionate about exploring new technologies
-- 💬 Feel free to ask me about **Angular, Python, or Renewable Energy**
-- 📫 You can reach me at **roshni.rana27.py@gmail.com**
+- 🔭 Passionate data scientist and lifelong learner
+- 👩‍💻 Fueled by coding and machine learning.
+- 🌱 Enhancing skills in NLP and Deep Learning.
+- 👯 Eager to collaborate on impactful data science projects.
+- 💬 Curious about DA, .Py, ML algorithms and models.
+- 📝 Explore my [Website](#) to see my latest work and insights.
+- 📫 You can reach me: **roshni.rana27.py@gmail.com**
+
 
 </td>
 </td>
