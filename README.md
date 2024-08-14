@@ -15,7 +15,7 @@
 <tr>
 <td width="50%" align="left">
 
-- 🔭 Currently working on [angular_Managing_football_tournament](https://github.com/Achraftraf/angular_Managing_football_tournament.git)
+- 🔭 Currently working on my git hub read me
 - 🌱 Passionate about exploring new technologies
 - 💬 Feel free to ask me about **Angular, Python, or Renewable Energy**
 - 📫 You can reach me at **achraf.zarouki20@gmail.com**
