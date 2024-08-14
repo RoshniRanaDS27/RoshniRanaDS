@@ -4,9 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Roshni</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Data+Scientist+in+Training...;University+OF+Toronto+Alum...;Open-Source+Enthusiast...;Learning+In+Public...;Empowering+Others...;Nice+To+Meet+You+...&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF007F&width=380&height=28&lines=Data+Scientist+in+Training...;University+OF+Toronto+Alum...;Open-Source+Enthusiast...;Learning+In+Public...;Empowering+Others...;Nice+To+Meet+You+...&center=true"></a></p> 
     
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoshniRanaDS27f&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -110,11 +109,28 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniRanaDS27&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
 <!--START_SECTION:waka-->
-
 <p align="center">
  <img width="1000" src="https://github.com/user-attachments/assets/bd6103c2-0d3c-4ae0-ba4b-279ec9d529d7" alt="snake"/>
+</p>
+
+<p align="center">My Data Science Hobbies are ❤️</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&width=380&height=28&lines=Data+Science+Exploration...;Building+Interactive+Dashboards...;Continuous+Learning...;Experimenting+with+ML+Models...;AI+Enthusiast...;Building+Intelligent+Solutions..;Analyzing+And+Crafting;Stunning+Data+Visualizations..&center=true" />
+</p>
+
+---
+
+<p align="center">
+ "Cheers to intelligence 💡, Proudly lifting up AI 🤖 , Honoring science 🧬, algorithms and the brilliant minds behind the code. 🚀🧠
+  <br>
+  Keep exploring 🔍!! , Embrace the journey, stay curious, and let's achieve 🏆 greatness together!" ✨ 🌍 
+</p>
+
+---
+<p align="center">
+  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" alt="gif" width="600">
 </p>
 
 <p align="center">
