@@ -59,7 +59,7 @@
 ## Technical Expertice and Tools
 
 
-<div align="center">
+<div align="left">
   
 ### Languages:
 | Python3 | SQL | HTML | CSS | JAVA |  R  | PL/SQL |
@@ -79,8 +79,13 @@
 |----------|----------|----------|-----|-----|-----|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://logodix.com/logo/1327215.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" title="R" alt="R" width="55" height="55"/>|<img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" title="PL" alt="PL" width="55" height="55"/>|
 
+
+</div>
+
 ---
 
+<div align="Right">
+  
 ### My tools for Data Manipulation & Transformation
 
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Visual Studio | Excel | Colab 
@@ -106,8 +111,11 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
 
----
+</div>
 
+---
+<div align="left">
+  
 ### Areas of Expertise
  
 | Data Analysis | Data Modeling | Data Engineering | Advanced Analysis | Data Visualization | ML Modeling | Deep Learning |
