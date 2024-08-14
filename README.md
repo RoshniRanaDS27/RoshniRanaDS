@@ -75,9 +75,12 @@
 
 
 ### Data Visualization:
-| Power-BI | tableau | Flask-API | Dash | SeaBorn |  Plotly  | Matplotlib |
-|----------|----------|----------|-----|-----|-----|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://logodix.com/logo/1327215.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" title="R" alt="R" width="55" height="55"/>|<img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" title="PL" alt="PL" width="55" height="55"/>|
+| Power-BI | tableau | Flask-API | Dash | keras | SeaBorn |  Plotly  | Matplotlib | Excel | GeoPandas | Stremlit |
+|----------|----------|----------|-----|-----|-----|----------|-----|-----|-----|-----|
+|  <img src="https://pnghq.com/wp-content/uploads/power-bi-logo-and-sign-png-high-resolution.png" title="Powerbi"  alt="Powerbi" width="55" height="55"/> |  <img src="https://i.pinimg.com/736x/86/35/88/863588a71e465cc3aa5d822c0feafea9.jpg"  alt="Tableau" width="55" height="55"/> |  <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="flask" alt="flask" width="55" height="55"/> |  <img src="http://help.plot.ly/images/dash.png" title="dash" alt="dash" width="55" height="55"/>|  <img src="https://res.cloudinary.com/apideck/image/upload/v1569191250/catalog/keras-io/icon128x128.jpg" title="kera" alt="kera" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="sea" alt="sea" width="55" height="55"/>|<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" title="PL" alt="PL" width="55" height="55"/>|<img src="https://hadrienj.github.io/assets/images/icons/matplotlib.png" title="mat"  alt="mat" width="55" height="55"/> |<img src="https://vectorified.com/images/excel-document-icon-29.png" title="excel"  alt="excel" width="55" height="55"/> |<img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" title="geo"  alt="geo" width="55" height="55"/> |<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="lit"  alt="lit" width="55" height="55"/> |
+
+
+
 
 
 </div>
@@ -125,7 +128,7 @@
 
 ### Machine Learning and Data Mining:
 
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | Kafka |
+| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat | VGG 16 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="55" height="55"/>|
 
