@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Roshni</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Data+Science+Student..;From+University+OF+Toronto..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Data+Scientist+in+Training...;University+OF+Toronto+Alum...;Open-Source+Enthusiast...;Learning+In+Public...;Empowering+Others...;Nice+To+Meet+You+...&center=true"></a></p>
     
 
 <p align="center">
