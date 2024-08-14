@@ -18,7 +18,7 @@
 - 🔭 Currently working on my git hub read me
 - 🌱 Passionate about exploring new technologies
 - 💬 Feel free to ask me about **Angular, Python, or Renewable Energy**
-- 📫 You can reach me at **achraf.zarouki20@gmail.com**
+- 📫 You can reach me at **roshni.rana27.py@gmail.com**
 
 </td>
 </td>
