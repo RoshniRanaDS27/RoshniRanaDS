@@ -56,15 +56,15 @@
   </a>
 </p>
 
-## Languages and Tools
+## Technical Expertice and Tools
 
 
 <div align="center">
   
 ### Languages:
-| Python3 | SQL | HTML | CSS | JAVA |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+| Python3 | SQL | HTML | CSS | JAVA | R |
+|----------|----------|----------|-----|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://logodix.com/logo/1327215.png" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://logospng.org/download/css-3/logo-css-3-1024.png" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" title="JAVA" alt="JAVA" width="55" height="55"/>| <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" title="R" alt="R" width="55" height="55"/>|
 
 
 ### Best frameworks and main libraries for Python3:
