@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Roshni</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF007F&width=380&height=28&lines=Data+Scientist+in+Training...;University+OF+Toronto+Alum...;Open-Source+Enthusiast...;Learning+In+Public...;Empowering+Others...;Nice+To+Meet+You+...&center=true"></a></p> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF007F&width=380&height=28&lines=Data+Scientist+in+Training...;University+OF+Toronto+Alum...;Lifelong+Learner...;Open-Source+Enthusiast...;Learning+In+Public...;Empowering+Others...;Nice+To+Meet+You+...&center=true"></a></p> 
     
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoshniRanaDS27f&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" align="left">
 
-- 🔭 Passionate data Analyst and lifelong learner
+- 🔭 Passionate data Scientist in Training 
 - 👩‍💻 Fueled by coding and machine learning.
 - 🌱 Enhancing skills in NLP and Deep Learning.
 - 👯 Eager to collaborate on impactful data science projects.
