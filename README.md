@@ -85,7 +85,7 @@
 
 <div align="Right">
   
-### My tools for Data Manipulation & Transformation
+### My tools for Data Manipulation, Transformation & DataBase Management
 
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Visual Studio | JIRA | Colab | Rally | MongoDB|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
