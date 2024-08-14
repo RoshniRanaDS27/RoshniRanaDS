@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" align="left">
 
-- 🔭 Passionate data scientist and lifelong learner
+- 🔭 Passionate data Analyst and lifelong learner
 - 👩‍💻 Fueled by coding and machine learning.
 - 🌱 Enhancing skills in NLP and Deep Learning.
 - 👯 Eager to collaborate on impactful data science projects.
