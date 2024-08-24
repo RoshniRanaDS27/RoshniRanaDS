@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://media0.giphy.com/media/TtCcHFPK7zwA1N1VrG/200w.webp?cid=ecf05e47mu68ks066pvk8mxav7eo4uofhljx5jh96btgaj3g&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Buy Me A Coffee" width="400" ></a>
+<a href=" " target="_blank"><img src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Buy Me A Coffee" width="600" ></a>
 </p>
 
 
