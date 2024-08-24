@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=RoshniRanaDS27f&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
+</p>
+
 
 <table align="center">
 <tr>
@@ -56,6 +60,7 @@
     <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
   </a>
 </p>
+
 
 ## Technical Expertice and Tools
 
@@ -170,6 +175,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&width=380&height=28&lines=Data+Science+Exploration...;Building+Interactive+Dashboards...;Continuous+Learning...;Experimenting+with+ML+Models...;AI+Enthusiast...;Building+Intelligent+Solutions..;Analyzing+And+Crafting;Stunning+Data+Visualizations..&center=true" />
 </p>
 
+<p align="center">
+<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
+</p>
+
 ---
 
 <p align="center">
@@ -179,6 +188,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" alt="gif" width="600">
 </p>
