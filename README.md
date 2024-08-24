@@ -61,6 +61,10 @@
   </a>
 </p>
 
+<p align="center">
+<a href=" " target="_blank"><img src="https://media0.giphy.com/media/TtCcHFPK7zwA1N1VrG/200w.webp?cid=ecf05e47mu68ks066pvk8mxav7eo4uofhljx5jh96btgaj3g&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Buy Me A Coffee" width="400" ></a>
+</p>
+
 
 ## Technical Expertice and Tools
 
@@ -176,7 +180,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
+<a href=" " target="_blank"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4ZTY0NTN2a2tvcDBxdjR1aXI3ZWhtZmJmbWthMGNiN2JjaWRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpEozy4TLUoN43GTnZ/giphy.webp" alt="Buy Me A Coffee" width="200" ></a>
 </p>
 
 ---
