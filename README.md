@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
+<a href=" " target="_blank"><img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" width="950" ></a>
 </p>
 
 
@@ -33,10 +33,8 @@
 <td width="50%" align="center">
 
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a">
+  <img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g">
 </p>
-
-
   
   </td>
 </tr>
@@ -62,7 +60,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="Buy Me A Coffee" width="600" ></a>
+<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
 </p>
 
 
