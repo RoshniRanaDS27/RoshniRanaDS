@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=RoshniRanaDS27f&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
+
 <table align="center">
 <tr>
 <td width="50%" align="left">
@@ -183,17 +185,14 @@
 </p>
 
 <p align="center">
+<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="1500" ></a>
+</p>
+
+---
+<p align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <p align="center">
 <a href=" " target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>
-
-<p align="center">
-<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="1500" ></a>
-</p>
-
-<p align="center">
-<a href=" " target="_blank"><img src="https://media1.tenor.com/m/12XUujbJiJMAAAAd/aesthetic.gif" alt="Buy Me A Coffee" width="600" ></a>
 </p>
