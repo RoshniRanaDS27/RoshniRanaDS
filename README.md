@@ -41,10 +41,14 @@
 </table>
 
 ## 🏆 GitHub Trophies
+
+<p align="center">
+<a href=" " target="_blank"><img src="https://media3.giphy.com/media/4HlWkRfBrAT43FcWa2/200w.webp" alt="Buy Me A Coffee" width="400" ></a>
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RoshniRanaDS27&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
 
 ## Connect with Me
 <p align="center">
