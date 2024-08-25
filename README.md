@@ -77,7 +77,7 @@
   <td width="50%" align="right">
   <p style="margin: 0; flex: 1; text-align: right;">
     <a href=" " target="_blank">
-      <img src="https://media3.giphy.com/media/4HlWkRfBrAT43FcWa2/200w.webp" 
+      <img src="https://media2.giphy.com/media/3ohc1573tIrwAsCMzS/200.webp?cid=ecf05e47vasrv0cx55pcdbbxyij1rbpbbo38fa12hws395ws&ep=v1_gifs_related&rid=200.webp&ct=g" 
            alt="Buy Me A Coffee" 
            width="400">
     </a>
