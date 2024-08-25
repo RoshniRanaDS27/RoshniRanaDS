@@ -33,7 +33,7 @@
 <td width="50%" align="center">
 
 
-  <img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g">
+  <img align="Right" alt="Coding" width="450" src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g">
 </p>
   
   </td>
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://media3.giphy.com/media/4HlWkRfBrAT43FcWa2/200w.webp" alt="Buy Me A Coffee" width="400" ></a>
+<a href=" " target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExank0ZjM3cWQ1d3RwdWs5anlubnUwYXM4MzlueGs5dmUwMDN1aWJkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rKCnvbGNFMAqQ/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
 </p>
 
 <p align="center">
@@ -63,10 +63,29 @@
   </a>
 </p>
 
-<p align="center">
-<a href=" " target="_blank"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" alt="Buy Me A Coffee" width="400" ></a>
-</p>
-
+<table align="center">
+<tr>
+<td width="50%" align="left">
+  <p style="margin: 0; flex: 1; text-align: center;">
+    <a href=" " target="_blank">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6dTgwN2txc3dvN2NyMTIxeDB4ZHlsejN4ZDV3a3hjeXU3anlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYWYzI3vq5In7gNhXD/giphy.webp" 
+           alt="Buy Me A Coffee" 
+           width="400">
+    </a>
+</td>
+</td>
+  <td width="50%" align="right">
+  <p style="margin: 0; flex: 1; text-align: right;">
+    <a href=" " target="_blank">
+      <img src="https://media3.giphy.com/media/4HlWkRfBrAT43FcWa2/200w.webp" 
+           alt="Buy Me A Coffee" 
+           width="400">
+    </a>
+</td>
+</td>
+  </td>
+</tr>
+</table>
 
 ## Technical Expertice and Tools
 
