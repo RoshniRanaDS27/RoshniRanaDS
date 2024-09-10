@@ -384,6 +384,24 @@
         <tr>
           <td>Predictive Analytics</td>
         </tr>
+        <tr>
+          <td>Time Series Forecasting</td>
+        </tr>
+        <tr>
+          <td>Anomaly Detection</td>
+        </tr>
+        <tr>
+          <td>Geographical Analysis</td>
+        </tr>
+        <tr>
+          <td>Segmentation Analysis</td>
+        </tr>
+         <tr>
+          <td>Quantitative Analysis</td>
+        </tr>
+         <tr>
+          <td>Qualitative Analysis</td>
+        </tr>
       </table>
     </td>
   </tr>
