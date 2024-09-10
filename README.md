@@ -128,6 +128,14 @@
 |----------|----------|----------|----------|
 |<img src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws" alt="aws" width="95" height="55"/>|<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" title="Gc" alt="Gc" width="100" height="65"/>|<img src="https://tse3.mm.bing.net/th?id=OIP.oh2doaVuGxtNElqLduWoeQHaCt&pid=Api&P=0&h=180" title="OC" alt="OC" width="95" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" title="pytest" alt="pytest" width="85" height="55"/>| 
 
+#
+
+<p align="center">
+  <img src="" width="800px" alt="Profile Image">
+</p>
+
+#
+
 ### **Methodologies:**
 
 | Waterfall        | Agile           | CRISP-DM        | KDP           | Supervised Learning | Unsupervised Learning | Reinforcement Learning | EDA  | Statistical Analysis | Hypothesis Testing |
