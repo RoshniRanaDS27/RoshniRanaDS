@@ -368,7 +368,7 @@
 <a href=" " target="_blank">
 
  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyejRkdXkzdG52bnRzOHFyejV5ejhqendjemdlejk3dTlzOGY0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CtVnM96GLP6KJcajgM/giphy.webp" alt="GIF Description" width="400"/>
+<img src="https://media1.giphy.com/media/CtVnM96GLP6KJcajgM/200w.webp?cid=ecf05e472be1xg5y68jj90cjqicotpmdpd3d34z4u9k6kcs5&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="GIF Description" width="400"/>
 <img src="https://media0.giphy.com/media/FlWpltZ9OOcUg/200w.webp?cid=ecf05e47chne74pu7gyyq8uw7369l5kiji339pjfe3cfee82&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="GIF Description" width="400"/>
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo0cGhpNjNsbDZ3cHU1dWhnZTl4b3RmZ2R1NzVlc29ndWw3MDBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6FnSLLfxIbOedmerB/giphy.webp" alt="Buy Me A Coffee" width="250" ></a></p>
     </td>
@@ -466,7 +466,7 @@
 </table>
 
 <p align="center">
-  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF1OXg1NndqczN0dXhlNjhxaGNxOHhlZDUyaHA4OGg2MDg0cGU4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.webp" width="350" >
+  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJjMjFobDlzaHhkcnR0emw1MGk4NXc3OHR6N3djYmtvbmRoYnFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.webp" width="350" >
 </p>
 
 
