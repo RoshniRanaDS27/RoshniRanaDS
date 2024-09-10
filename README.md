@@ -144,13 +144,13 @@
           <td>Supervised Learning</td>
         </tr>
         <tr>
-          <td>Predictive Modeling</td>
+          <td>Predictive Modeling, Regressions</td>
         </tr>
         <tr>
-          <td>Clustering</td>
+          <td>k-Means Clustering,Anomaly Detection </td>
         </tr>
         <tr>
-          <td>Classification</td>
+          <td>Classification, Random Forest</td>
         </tr>
         <tr>
           <td>Unsupervised Learning</td>
@@ -162,7 +162,7 @@
           <td>Algorithm Development</td>
         </tr>
         <tr>
-          <td>Deep Learning</td>
+          <td>Deep Learning </td>
         </tr>
         <tr>
           <td>Neural Networks</td>
@@ -171,10 +171,10 @@
           <td>Model Testing: Regression</td>
         </tr>
         <tr>
-          <td>Web Development Dashboard</td>
+          <td>Custom Metrics</td>
         </tr>
         <tr>
-          <td>Flask API</td>
+          <td>Flask API,APP, Web Dashboarding</td>
         </tr>
         <tr>
           <td>Tensor Flow/ Keras ML Model Designs</td>
@@ -211,10 +211,10 @@
           <td>KDP</td>
         </tr>
         <tr>
-          <td>Supervised Learning</td>
+          <td>Pipeline Automation</td>
         </tr>
         <tr>
-          <td>Unsupervised Learning</td>
+          <td>stakeholder Mapping</td>
         </tr>
         <tr>
           <td>Reinforcement Learning</td>
@@ -223,10 +223,25 @@
           <td>EDA</td>
         </tr>
         <tr>
-          <td>Statistical Analysis</td>
+          <td>Slack/Git/GitLab/JIRA/Trello</td>
         </tr>
         <tr>
-          <td>Hypothesis Testing</td>
+          <td>Data-Driven Decision Making</td>
+        </tr>
+        <tr>
+          <td>Design/ Critical Thinking</td>
+        </tr>
+        <tr>
+          <td>Lean Data Science Analysis</td>
+        </tr>
+        <tr>
+          <td>Understanding business Needs</td>
+        </tr>
+        <tr>
+          <td>Reporting </td>
+        </tr>
+        <tr>
+          <td>Professinal Communication</td>
         </tr>
       </table>
     </td>
@@ -291,40 +306,56 @@
           <td>Search Engine Optimization (SEO)</td>
         </tr>
         <tr>
-          <td>ERD</td>
+          <td>outliers Handling</td>
         </tr>
         <tr>
-          <td>ML Model Dashboard</td>
+          <td>ML Model Web Dashboard</td>
         </tr>
       </table>
     </td>
 
-  <td>
-      <img src="https://media1.giphy.com/media/ZY3W96Mvat8EFTCclA/200w.webp?cid=ecf05e474olx9j4wtsjlqch9oetz9od71k3vgt54ll2w6vsx&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600"/>
-    </td>
+ 
 
 <td>
       <table>
-        <tr>
-          <th>Data Modeling</th>
+       <tr>
+          <th>Data Engineering</th>
         </tr>
         <tr>
-          <td>ER Diagrams</td>
+          <th>Data Ingestion/Collection/ETL Tools</th>
         </tr>
         <tr>
-          <td>Normalization</td>
+          <th>Data Warehousing Solutions</th>
         </tr>
         <tr>
-          <td>Schema Design</td>
+          <td>Data Storage/schema Design</td>
         </tr>
         <tr>
-          <td>Data Mapping</td>
+          <td>Data Pipeline Design/ERD</td>
         </tr>
         <tr>
-          <td>Mapping Tools</td>
+          <td>Data Modeling/Data structuring</td>
         </tr>
         <tr>
-          <td>Data Structures</td>
+          <td>Data Mapping(Apache)</td>
+        </tr>
+        <tr>
+          <td>Data transformation and Normalization</td>
+        </tr>
+        <tr>
+          <td>RDBMS</td>
+        </tr>
+         <tr>
+          <td>NoSQL Databases (MongoDB)</td>
+        </tr>
+        <tr>
+          <td>Data Quality, Governance And Security</td>
+        </tr>
+        <tr>
+          <td>Monitoring and Maintenance</td>
+        </tr>
+        <tr>
+          <td>Collaboration/ Documentation</td>
         </tr>
       </table>
     </td>
