@@ -51,6 +51,11 @@
 </p>
 
 ## Connect with Me
+
+<p align="center">
+  <img width="150" src="https://orig00.deviantart.net/2270/f/2017/035/2/4/shana_sprite_animation__baiken__by_seggel2009-daxxfdz.png" />
+</p>
+
 <p align="center">
   <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -86,6 +91,7 @@
   </td>
 </tr>
 </table>
+
 
 ## Technical Expertice and Tools
 
@@ -493,6 +499,10 @@
  <img width="1000" src="https://github.com/user-attachments/assets/bd6103c2-0d3c-4ae0-ba4b-279ec9d529d7" alt="snake"/>
 </p>
 
+<p align="center">
+  <img width="150" src="https://bestanimations.com/Music/Dancers/anime-dancing-girls/anime-dancing-girl-16.gif" />
+</p>
+
 <p align="center">My Data Science Hobbies are ❤️</p>
 
 <p align="center">
@@ -503,6 +513,7 @@
 <a href=" " target="_blank"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4ZTY0NTN2a2tvcDBxdjR1aXI3ZWhtZmJmbWthMGNiN2JjaWRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpEozy4TLUoN43GTnZ/giphy.webp" alt="Buy Me A Coffee" width="200" ></a>
 </p>
 
+
 ---
 
 <p align="center">
@@ -512,6 +523,7 @@
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" alt="gif" width="600">
