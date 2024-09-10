@@ -128,20 +128,6 @@
 |----------|----------|----------|----------|
 |<img src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws" alt="aws" width="95" height="55"/>|<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" title="Gc" alt="Gc" width="100" height="65"/>|<img src="https://tse3.mm.bing.net/th?id=OIP.oh2doaVuGxtNElqLduWoeQHaCt&pid=Api&P=0&h=180" title="OC" alt="OC" width="95" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" title="pytest" alt="pytest" width="85" height="55"/>| 
 
-#
-
-<p align="center">
-  <img src="" width="800px" alt="Profile Image">
-</p>
-
-#
-
-### **Methodologies:**
-
-| Waterfall        | Agile           | CRISP-DM        | KDP           | Supervised Learning | Unsupervised Learning | Reinforcement Learning | EDA  | Statistical Analysis | Hypothesis Testing |
-|------------------|------------------|------------------|----------------|---------------------|-----------------------|------------------------|------|---------------------|---------------------|
-| Linear approach  | Iterative approach| Data mining process| Knowledge Discovery Process| Labeled data training | Hidden patterns discovery | Decision making with rewards | Data exploration | Statistical methods  | Testing hypotheses   |
-
 ---
 
 </div>
@@ -171,14 +157,108 @@
 
 ---
 
-### Machine Learning and Data Mining:
+<h3>Machine Learning and Data Mining:</h3>
 
-| Predictive Modeling | Clustering | Classification | Data Mining Techniques | Algorithm Development | Deep Learning | Neural Networks | Model Testing: Regression | Web Development Dashboard |
-|---------------------|------------|----------------|-----------------------|----------------------|---------------|-----------------|---------------------------|---------------------------|
-| Creating models to predict outcomes | Grouping data | Categorizing data | Techniques for data extraction | Developing algorithms | Advanced ML techniques | Building and training neural networks | Evaluating models with Regression | Building and integrating dashboards for web applications |
+<table>
+  <tr>
+    <!-- Left Column: Machine Learning and Data Mining Table -->
+    <td>
+      <table>
+        <tr>
+          <th>Machine Learning and Data Mining</th>
+        </tr>
+        <tr>
+          <td>Supervised Learning</td>
+        </tr>
+        <tr>
+          <td>Predictive Modeling</td>
+        </tr>
+        <tr>
+          <td>Clustering</td>
+        </tr>
+        <tr>
+          <td>Classification</td>
+        </tr>
+        <tr>
+          <td>Unsupervised Learning</td>
+        </tr>
+        <tr>
+          <td>Data Mining Techniques</td>
+        </tr>
+        <tr>
+          <td>Algorithm Development</td>
+        </tr>
+        <tr>
+          <td>Deep Learning</td>
+        </tr>
+        <tr>
+          <td>Neural Networks</td>
+        </tr>
+        <tr>
+          <td>Model Testing: Regression</td>
+        </tr>
+        <tr>
+          <td>Web Development Dashboard</td>
+        </tr>
+        <tr>
+          <td>Flask API</td>
+        </tr>
+        <tr>
+          <td>Tensor Flow/ Keras ML Model Designs</td>
+        </tr>
+        <tr>
+          <td>Scikit-learn</td>
+        </tr>
+        <tr>
+          <td>Reinforcement Learning</td>
+        </tr>
+      </table>
+    </td>
 
+   
+   <td>
+      <img src="https://media1.giphy.com/media/0YkmGRyM2VoknitKMJ/200w.webp?cid=ecf05e47tkvw18zo4r17ajw0bsoi0z5y9ynrp1rv5lo6l05c&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="GIF Description" width="600"/>
+    </td>
 
-</div>
+  <td>
+      <table>
+        <tr>
+          <th>Methodologies</th>
+        </tr>
+        <tr>
+          <td>Waterfall</td>
+        </tr>
+        <tr>
+          <td>Agile</td>
+        </tr>
+        <tr>
+          <td>CRISP-DM</td>
+        </tr>
+        <tr>
+          <td>KDP</td>
+        </tr>
+        <tr>
+          <td>Supervised Learning</td>
+        </tr>
+        <tr>
+          <td>Unsupervised Learning</td>
+        </tr>
+        <tr>
+          <td>Reinforcement Learning</td>
+        </tr>
+        <tr>
+          <td>EDA</td>
+        </tr>
+        <tr>
+          <td>Statistical Analysis</td>
+        </tr>
+        <tr>
+          <td>Hypothesis Testing</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ----
 <p align="center">
