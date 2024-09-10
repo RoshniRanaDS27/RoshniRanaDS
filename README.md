@@ -128,36 +128,9 @@
 |----------|----------|----------|----------|
 |<img src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" title="aws" alt="aws" width="95" height="55"/>|<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" title="Gc" alt="Gc" width="100" height="65"/>|<img src="https://tse3.mm.bing.net/th?id=OIP.oh2doaVuGxtNElqLduWoeQHaCt&pid=Api&P=0&h=180" title="OC" alt="OC" width="95" height="55"/>|<img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" title="pytest" alt="pytest" width="85" height="55"/>| 
 
----
-
 </div>
 
-<div align="left">
-
-### **Data Analysis Flow:**
-
-| Data Collection      | Data Quality Assurance | Data Validation | Data Cleansing | Data Verification | Data Modeling | Data Engineering | Exploratory Data Analysis | Visualization | Advanced Analytics | Statistical Analysis | Trend Monitoring | Geographic Trend Tracking | Data Science Research Methods | Search Engine Optimization (SEO) | ERD | ML Model Dashboard |
-|----------------------|-------------------------|-----------------|----------------|-------------------|---------------|------------------|---------------------------|---------------|-------------------|---------------------|------------------|----------------------------|-------------------------------|---------------------------------|-----|---------------------|
-| Gathering data       | Ensuring data integrity | Checking data accuracy | Cleaning data | Confirming data accuracy | Designing data structures | Developing data systems | Analyzing data patterns | Creating charts and graphs | Complex data analysis | Statistical techniques | Monitoring trends over time | Tracking geographic trends | Research methods in data science | Optimizing search engine performance | Entity-Relationship Diagrams | Dashboards for ML model performance |
-
-
-### **Data Modeling:**
-
-| ER Diagrams | Normalization | Schema Design | Data Mapping | Mapping Tools | Data Structures |
-|-------------|---------------|---------------|--------------|---------------|-----------------|
-| Creating diagrams to represent data relationships | Organizing data to reduce redundancy | Designing the structure of a database | Linking data elements | Tools for mapping data | Defining data organization |
-
-### **Advanced Analytics:**
-
-| Statistical Analysis | Trend Analysis | Data Mining | Regression Analysis | Hypothesis Testing | Predictive Analytics |
-|----------------------|-----------------|-------------|---------------------|--------------------|----------------------|
-| Analyzing data using statistical methods | Analyzing data trends over time | Discovering patterns in data | Assessing relationships between variables | Testing hypotheses with statistical methods | Making predictions based on data |
-
-
-
----
-
-<h3>Machine Learning and Data Mining:</h3>
+### Machine Learning, Data Mining And Methodology Techniques
 
 <table>
   <tr>
@@ -260,7 +233,133 @@
   </tr>
 </table>
 
-----
+#
+
+<h3>Data Analysis Flow:</h3>
+
+<table>
+  <tr>
+    
+  <td>
+      <table>
+        <tr>
+          <th>Data Analysis Flow</th>
+        </tr>
+        <tr>
+          <td>Data Collection</td>
+        </tr>
+        <tr>
+          <td>Data Quality Assurance</td>
+        </tr>
+        <tr>
+          <td>Data Validation</td>
+        </tr>
+        <tr>
+          <td>Data Cleansing</td>
+        </tr>
+        <tr>
+          <td>Data Verification</td>
+        </tr>
+        <tr>
+          <td>Data Modeling</td>
+        </tr>
+        <tr>
+          <td>Data Engineering</td>
+        </tr>
+        <tr>
+          <td>Exploratory Data Analysis</td>
+        </tr>
+        <tr>
+          <td>Visualization</td>
+        </tr>
+        <tr>
+          <td>Advanced Analytics</td>
+        </tr>
+        <tr>
+          <td>Statistical Analysis</td>
+        </tr>
+        <tr>
+          <td>Trend Monitoring</td>
+        </tr>
+        <tr>
+          <td>Geographic Trend Tracking</td>
+        </tr>
+        <tr>
+          <td>Data Science Research Methods</td>
+        </tr>
+        <tr>
+          <td>Search Engine Optimization (SEO)</td>
+        </tr>
+        <tr>
+          <td>ERD</td>
+        </tr>
+        <tr>
+          <td>ML Model Dashboard</td>
+        </tr>
+      </table>
+    </td>
+
+  <td>
+      <img src="https://media2.giphy.com/media/0R7AQsnA3yIUcbvztz/giphy.webp?cid=790b7611velee2ckuxcuxw4n855wl388ss401vafvh05t366&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="300"/>
+    </td>
+
+<td>
+      <table>
+        <tr>
+          <th>Data Modeling</th>
+        </tr>
+        <tr>
+          <td>ER Diagrams</td>
+        </tr>
+        <tr>
+          <td>Normalization</td>
+        </tr>
+        <tr>
+          <td>Schema Design</td>
+        </tr>
+        <tr>
+          <td>Data Mapping</td>
+        </tr>
+        <tr>
+          <td>Mapping Tools</td>
+        </tr>
+        <tr>
+          <td>Data Structures</td>
+        </tr>
+      </table>
+    </td>
+
+
+   <td>
+      <table>
+        <tr>
+          <th>Advanced Analytics</th>
+        </tr>
+        <tr>
+          <td>Statistical Analysis</td>
+        </tr>
+        <tr>
+          <td>Trend Analysis</td>
+        </tr>
+        <tr>
+          <td>Data Mining</td>
+        </tr>
+        <tr>
+          <td>Regression Analysis</td>
+        </tr>
+        <tr>
+          <td>Hypothesis Testing</td>
+        </tr>
+        <tr>
+          <td>Predictive Analytics</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+# 
 <p align="center">
   <img width="450" height="350" src="https://media3.giphy.com/media/jRSBvQP5nq5pjKbZBK/200.webp?cid=ecf05e476cpr6plhr9xh5rso7z11qexowy5lz6dl0azoartz&ep=v1_gifs_related&rid=200.webp&ct=g">
 </p>
