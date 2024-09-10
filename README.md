@@ -190,7 +190,7 @@
 
    
    <td>
-      <img src="https://media1.giphy.com/media/0YkmGRyM2VoknitKMJ/200w.webp?cid=ecf05e47tkvw18zo4r17ajw0bsoi0z5y9ynrp1rv5lo6l05c&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="GIF Description" width="600"/>
+      <img src="https://media2.giphy.com/media/3ohhwf6WvJhVvAViCI/200.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=200.webp&ct=g" alt="GIF Description" width="600"/>
     </td>
 
   <td>
@@ -300,7 +300,7 @@
     </td>
 
   <td>
-      <img src="https://media2.giphy.com/media/0R7AQsnA3yIUcbvztz/giphy.webp?cid=790b7611velee2ckuxcuxw4n855wl388ss401vafvh05t366&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="300"/>
+      <img src="https://media1.giphy.com/media/ZY3W96Mvat8EFTCclA/200w.webp?cid=ecf05e474olx9j4wtsjlqch9oetz9od71k3vgt54ll2w6vsx&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600"/>
     </td>
 
 <td>
@@ -377,6 +377,11 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=RoshniRanaDS27&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniRanaDS27&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+
+<p align="center">
+ <img width="400" src="https://media3.giphy.com/media/aI9Ql8g6ysGKyQZcpx/giphy.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="snake"/>
+</p>
+
 
 <!--START_SECTION:waka-->
 <p align="center">
