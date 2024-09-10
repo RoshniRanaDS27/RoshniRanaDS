@@ -130,7 +130,32 @@
 
 </div>
 
-### Machine Learning, Data Mining And Methodology Techniques
+#
+
+# Machine Learning, Data Mining And Methodology Techniques
+
+<table>
+  <tr>
+  <td>
+      <!-- Right side GIF -->
+      <img src="https://media0.giphy.com/media/vXKDZhTejV2kU/giphy.webp?cid=ecf05e47c4eusq43mgn3hvpxjpfu7o3ew53usl3fyuoo7ga2&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="GIF Description" width="400"/>
+    </td>
+  <td>
+      <!-- Right side GIF -->
+       <img src="https://media3.giphy.com/media/3oEjHERaTIdeuFQrXq/giphy.webp?cid=ecf05e47fm7viw93n800jr4m7xv7lphua527zfnf24629f4k&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="400"/>
+    </td> 
+    <td>
+      <!-- Right side GIF -->
+      <img src="https://media4.giphy.com/media/7UxM6DyRAF9NFnNMir/giphy.webp?cid=790b7611lznxs0w0m6u055eqhyauv6mqin2w7nzdy6p55s9o&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="400"/>
+      
+  </td>
+    <td>
+      <!-- Right side GIF -->
+      <img src="https://media2.giphy.com/media/3ohhwf6WvJhVvAViCI/200.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=200.webp&ct=g" alt="GIF Description" width="400"/>
+    </td>
+  </tr>
+</table>
+  
 
 <table>
   <tr>
@@ -190,7 +215,7 @@
 
    
    <td>
-      <img src="https://media2.giphy.com/media/3ohhwf6WvJhVvAViCI/200.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=200.webp&ct=g" alt="GIF Description" width="600"/>
+      <img src="https://media2.giphy.com/media/7x3PHPSMXSONHFuOK4/giphy.webp?cid=ecf05e47lgq6qodouvuld4qosbkqlrdjbryxuznylkymip1h&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="600"/>
     </td>
 
   <td>
@@ -250,7 +275,31 @@
 
 #
 
-<h3>Data Analysis Flow:</h3>
+# Data Analysis Flow
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media0.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.webp?cid=ecf05e47ets8gb588urujbhs14hkltbos1w7ezgabz58qky0&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="200"/>
+    </td>
+    <td>
+      <!-- Right side GIF -->
+       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBjamRsbWF2a3FoNXJ6Z3QyZzdqeTdiZmQwdGZlMzd6azcycnJ3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHB1lWgaM1WJ4fS/giphy.webp" alt="GIF Description" alt="GIF Description" width="200"/>
+    </td> 
+    <td>
+      <!-- Right side GIF -->
+      <img src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp?cid=ecf05e474smz3tbq79trcl9zdt888vxqmknw6bxxea0cbm6d&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="200"/>
+    </td>
+      <td>
+      <!-- Right side GIF -->
+      <img src="https://media1.giphy.com/media/Zsj7llF1kzsw8/giphy.webp?cid=ecf05e47q9rhdh9tk12f3hbsa9w4n6lergb6algbp8q3uxy4&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="GIF Description" width="200"/>
+    </td>
+     <td>
+      <!-- Right side GIF -->
+      <img src="https://media3.giphy.com/media/2g8EYDN0VWFMY/giphy.webp?cid=790b7611amx50xteb3fedvrf8gfblso0ho9kann85gwd10th&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="GIF Description" width="200"/>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -313,7 +362,16 @@
         </tr>
       </table>
     </td>
+    <td>
+      
+  <p align="center">
+<a href=" " target="_blank">
 
+ 
+<img src="https://media3.giphy.com/media/22O8hPAOo635rjZMjf/200.webp?cid=ecf05e479o9rwxyf499qkf7q8kkv6z94x11mplt6xc9ww4vw&ep=v1_gifs_related&rid=200.webp&ct=g" alt="GIF Description" width="400"/>
+<img src="https://media0.giphy.com/media/FlWpltZ9OOcUg/200w.webp?cid=ecf05e47chne74pu7gyyq8uw7369l5kiji339pjfe3cfee82&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="GIF Description" width="400"/>
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo0cGhpNjNsbDZ3cHU1dWhnZTl4b3RmZ2R1NzVlc29ndWw3MDBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6FnSLLfxIbOedmerB/giphy.webp" alt="Buy Me A Coffee" width="250" ></a></p>
+    </td>
  
 
 <td>
