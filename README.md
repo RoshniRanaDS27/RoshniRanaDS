@@ -24,7 +24,7 @@
 - 🌱 Enhancing skills in NLP and Deep Learning.
 - 👯 Eager to collaborate on impactful data science projects.
 - 💬 Curious about DA, .Py, ML algorithms and AI models.
-- 📝 Explore my [Website](#) to see my latest work and insights.
+- 📝 Explore my [Website](https://roshniranads27.github.io/Portfolio.Projects.Website/) to see my latest work and insights.
 - 📫 You can reach me: **roshni.rana27.py@gmail.com**
 
 
@@ -58,13 +58,13 @@
 
 <p align="center">
   <a href=" " target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/roshnirana27ds/" alt="LinkedIn" />
   </a>
   <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href=" " target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+    <img src="https://roshniranads27.github.io/Portfolio.Projects.Website/" alt="Website" />
   </a>
 </p>
 
