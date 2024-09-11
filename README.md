@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" width="950" ></a>
+  <a href=" " target="_blank">
+    <img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" width="50000">
+  </a>
 </p>
-
 
 <table align="center">
 <tr>
