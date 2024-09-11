@@ -57,14 +57,14 @@
 </p>
 
 <p align="center">
-  <a href=" " target="_blank">
-    <img src="https://www.linkedin.com/in/roshnirana27ds/" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/roshnirana27ds/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href=" " target="_blank">
+  <a href="https://www.instagram.com/shine272/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href=" " target="_blank">
-    <img src="https://roshniranads27.github.io/Portfolio.Projects.Website/" alt="Website" />
+  <a href="https://roshniranads27.github.io/Portfolio.Projects.Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
