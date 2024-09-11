@@ -532,7 +532,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="1500" ></a>
+<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="1500" height="600" ></a>
 </p>
 
 ---
