@@ -482,7 +482,7 @@
 </table>
 
 <p align="center">
-  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJjMjFobDlzaHhkcnR0emw1MGk4NXc3OHR6N3djYmtvbmRoYnFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.webp" width="350" >
+  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJjMjFobDlzaHhkcnR0emw1MGk4NXc3OHR6N3djYmtvbmRoYnFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN96HMixmb0IGgefiI/giphy.webp" width="450" >
 </p>
 
 
@@ -500,7 +500,7 @@
 </p>
 
 <p align="center">
- <img width="400" src="https://media3.giphy.com/media/aI9Ql8g6ysGKyQZcpx/giphy.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="snake"/>
+ <img width="350" src="https://media3.giphy.com/media/aI9Ql8g6ysGKyQZcpx/giphy.webp?cid=ecf05e47o5oop2909x1fq7rbd2ump8ngw0rlsey49qvet0m8&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="snake"/>
 </p>
 
 
