@@ -31,15 +31,11 @@
 </a> to see my latest work and insights.
 - 📫 You can reach me: **roshni.rana27.py@gmail.com**
 
-
-</td>
 </td>
 <td width="50%" align="center">
-
-
+<p>
   <img align="Right" alt="Coding" width="450" src="https://media1.giphy.com/media/jmS6emKfUZXbO88P00/200w.webp?cid=ecf05e47iaoy4ig06ybyuv7iz23yaiisgl2ghftw8y1uwjtp&ep=v1_gifs_related&rid=200w.webp&ct=g">
 </p>
-  
   </td>
 </tr>
 </table>
@@ -540,7 +536,7 @@
 </p>
 
 <p align="center">
-<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="1500" height="600" ></a>
+<a href=" " target="_blank"><img src="https://c.tenor.com/X8J_1gQOTI4AAAAC/tenor.gif" alt="Buy Me A Coffee" width="950" class="fullscreen></a>
 </p>
 
 ---
