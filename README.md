@@ -74,7 +74,7 @@
 
 <p align="center">
     <a href="https://roshnirana-portfolio-genzweb8site.netlify.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/25d9b0bf-1f45-4834-9f10-20de0b44d6d1" alt="Thumbnail" width="900" height="500"/>
+        <img src="https://github.com/user-attachments/assets/25d9b0bf-1f45-4834-9f10-20de0b44d6d1" alt="Thumbnail" width="950" class="fullscreen">
     </a>
 </p>
 
