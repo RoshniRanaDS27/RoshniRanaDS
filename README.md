@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=RoshniRanaDS27f&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
   <a href=" " target="_blank">
-    <img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" style="width: 60vw; height: 50vh; object-fit: cover; margin: 0; padding: 0; border: 0;">
   </a>
 </p>
 
