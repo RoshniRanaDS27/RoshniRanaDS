@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href=" " target="_blank">
-    <img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" style="width: 100vw; height: 50vh; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/0ef64fa5-36d9-43bb-9c21-ab30c6be769a" alt="Buy Me A Coffee" object-fit: cover;">
   </a>
 </p>
 
